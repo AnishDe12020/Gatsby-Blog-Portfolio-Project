@@ -1,6 +1,6 @@
 ---
 title: "Why I Love Ice Cream"
-date: "2017-08-10"
+date: "2021-07-29"
 description: "A small blog post on why I like ice cream (though I didn't write this post hehe)"
 ---
 
